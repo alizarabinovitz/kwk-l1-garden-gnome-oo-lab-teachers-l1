@@ -46,7 +46,7 @@ class GardenGnome
   end
 
   def shout
-    puts "GNARLY!!!"
+    "GNARLY!!!"
   end
 
 
